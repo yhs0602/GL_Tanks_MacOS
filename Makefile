@@ -1,5 +1,5 @@
 TARGET = opengltanks
-LIBS = -lGL -lGLU -lglut
+LIBS = -framework OpenGL -framework GLUT
 CC = g++
 CPPFLAGS = -g -Wall
 
