@@ -1,4 +1,6 @@
 ## GL Tanks
+origin	https://github.com/ChrisCooper/GL_Tanks.git
+
 ### A simple 3D tank game
 
 Controls
